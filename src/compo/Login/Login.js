@@ -28,7 +28,7 @@ const Login = () => {
     return (
         <Box component="section">
             <Grid container spacing={2}>
-                <Grid sx={{ background: '#000' }} item xs={12} sm={12} md={8}>
+                <Grid sx={{ background: 'radial-gradient(99.87% 413.14% at 0% 4.98%, #443453 0%, #232323 28.23%, #252425 100%)' }} item xs={12} sm={12} md={8}>
                     <Box component="div" sx={{ pt: '79px', pb: '22px', pl: '150px', pr: '300px' }}>
                         <img style={{ height: '100%', width: '100%' }} src={loginImg} alt="Login" />
                     </Box>
